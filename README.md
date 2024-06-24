@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Shashank Gupta</h1>
-<h3 align="center">Data Science Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
+<h3 align="center">Data Analyst Enthusiast | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
  <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png" />
@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 - 📝 I Regularly Write articles on [Power BI Blog](https://mavenanalytics.io/project/6759)
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
-- 📫 How to reach me *princekr301@gmail.com*
+- 📫 How to reach me *shashankgupta.nikku@gmail.com*
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 - ⚡ Fun fact ** My Hobbie is Playing Cricket and amy recent hobbie is codding ✨**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
